@@ -62,7 +62,8 @@
 }
 .dv6{
     display: flex;
-    gap: 20px;
+    gap: 10px;
+    align-items: center;
 }
 .dv8{
     display: flex;
@@ -156,4 +157,23 @@
     align-items: center;
     justify-content: space-between;
     gap: 20px;
+}
+.dc7{
+    display: flex;
+    align-items: center;
+    max-width: 1150px;
+    margin: auto;
+    justify-content: space-between;
+}
+.dc8{
+    background-color: #E5F0FD;
+}
+.dc9{
+    text-align: center;
+}
+.dc10{
+    display: flex;
+    max-width: 1150px;
+    margin: auto;
+    justify-content: space-between;
 }

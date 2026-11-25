@@ -57,6 +57,8 @@
     background-color: #217BF4;
     color: white;
     border: none;
+        box-shadow: 0px 0px 10px #217BF4;
+
 }
 .dv6{
     display: flex;
@@ -123,4 +125,27 @@
     align-items: center;
     justify-content: space-between;
     margin: auto;
+}
+.dc2{
+    text-align: center;
+}
+.dc3{
+    display: flex;
+    gap: 10px;
+    border: 2px solid rgb(243, 243, 243);
+    padding: 20px 80px 20px 0px;
+    width: 472px;
+    border-radius: 10px;
+    align-items: start;
+    background-color: white;
+}
+.dc4{
+    display: flex;
+    max-width: 1150px;
+    margin: auto;
+    justify-content: space-between;
+    
+}
+.dc5{
+    background: linear-gradient(white, white, #deeaf9,white);
 }

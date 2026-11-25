@@ -38,7 +38,7 @@
     margin: auto;
 }
 .dv7{
-    background: linear-gradient(white,#c8dffc);
+    background: linear-gradient(white,#c8dffc,white);
 
 }
 .p1{
@@ -176,4 +176,33 @@
     max-width: 1150px;
     margin: auto;
     justify-content: space-between;
+}
+.vvv{
+    border: 2px solid gray;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.input2{
+    border: none;
+    outline: none;
+  
+    border-radius: 10px;
+    background-color: #2B2B39;
+    padding: 0px 0px 0px 20px;
+}
+.foot{
+    display: flex;
+    max-width: 1150px;
+    margin: auto;
+    justify-content: space-between;
+}
+.foot2{
+    display: flex;
+    max-width: 1150px;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding: 20px 0px;
+    color: white;
 }

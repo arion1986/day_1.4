@@ -149,3 +149,11 @@
 .dc5{
     background: linear-gradient(white, white, #deeaf9,white);
 }
+.dc6{
+    display: flex;
+    max-width: 1150px;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
